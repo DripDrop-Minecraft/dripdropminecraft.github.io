@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DripDrop⬝Wiki - DripDrop Minecraft服务器的维基百科</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="为游玩DripDrop的小伙伴整理的知识书架">
+  <meta name="Keywords" content="WIKI，wiki，Minecraft，我的世界，服务器，维基百科，DripDrop">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <style type="text/css">
+    img{
+      width: 70%;
+    }
+    .icon{
+      width: 1.5%;
+    }
+    .size{
+      width: 30%;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      coverpage: 'cover.md',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      onlyCover: true,
+      search: 'auto',
+      name: 'DripDrop Wiki',
+      search: {
+        maxAge: 600000, // 过期时间，单位毫秒，默认一天，目前设为10分钟
+        paths: 'auto', // or 'auto'
+        placeholder: '搜索',
+        noData: '未找到合适的结果',
+        // 搜索标题的最大层级, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+
+        // 避免搜索索引冲突
+        // 同一域下的多个网站之间
+        namespace: 'website-1'
+      }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
