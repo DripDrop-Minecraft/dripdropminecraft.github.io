@@ -1,3 +1,4 @@
+> [!note]
 > 📘 以下教程是为 **<u>没有启动器</u>** 甚至 **<u>不知道 *Java* 是什么</u>** 的 **超级萌新** 准备的
 
 ## 下载Java
@@ -6,11 +7,13 @@
 
 ![从群文件里下载Java](pics/java0.png)
 
-> ❗ 使用**官方启动器**的玩家不需要额外下载Java，因为自1.17开始，官方启动器就已经内置了Java 16。
-> 
-> ❗ <font color=red><u>强烈不建议通过百度自行搜索、下载和使用来源不明的<font color=red>Java安装包</font></u></font>，此举可能带来计算机安全风险。
-> 
-> ❗ 我们不生产JDK或JRE，我们只是[Oracle官网](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
+> [!tip]
+> 使用**官方启动器**的玩家不需要额外下载Java，因为自1.17开始，官方启动器就已经内置了Java 16。
+> 我们不生产JDK或JRE，我们只是[Oracle官网](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
+
+> [!warning] 
+> 强烈不建议**通过百度**自行搜索、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
+
 
 ## 安装Java
 
@@ -36,7 +39,8 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 ~~Linux用户不会装OpenJDK？wget指令也不会用？那你只是纯粹拿Linux装逼的吗？~~
 
-> 一般来说，系统在安装Java时会自动配置好 *Java* 环境。<font color=red>如果玩家在安装好Java并准备进行游戏时却提示找不到Java，请参考[这里](./reference/javaconfig.md)</font>。
+> [!tip]
+> 一般来说，系统在安装Java时会自动配置好 *Java* 环境。如果玩家在安装好Java并准备进行游戏时却提示找不到Java，请参考[这里](./reference/javaconfig.md)。
 
 ## 下载启动器
 
@@ -44,6 +48,7 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 对于正版用户，最稳妥的选择是使用[正版启动器](https://www.minecraft.net/zh-hans/download)，它简洁美观，只是在下载时可能网速不是很令人满意。
 
+> [!tip]
 > 如果只想使用正版启动器，但同时又想体验丰富的社区Mod，请移步参考[这里](https://www.bilibili.com/read/cv6120888/)。
 
 ![正版启动器](pics/zbqdq.png)
@@ -52,9 +57,11 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 第三方启动器有很多途径可以获取到，不过既然加入了QQ群，自然就选择在群文件 `客户端整合包` 中下载已经做好基本配置的整合包。
 
-> ❗ 请不要下载和使用来源不明的第三方启动器！！！
-> 
+> [!tip]
 > Mac以及Linux用户请猛戳[此处](./reference/linuxmac.md)了解如何下载使用第三方启动器。
+
+> [!attention]
+> 请不要下载和使用来源不明的第三方启动器！！！这可能会危害你的账号和计算机安全！！！
 
 ![从群文件里下载整合包](pics/zhenghebao.png)
 

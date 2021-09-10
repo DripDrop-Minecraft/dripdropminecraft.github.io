@@ -1,4 +1,5 @@
-> 💗 请遵守你的原则，保持你的良知
+> [!warning]
+> 请遵守本服规则，保持你的良知
 
 ## <font color=red>绝对不能做的事</font>
 
@@ -30,4 +31,4 @@
 |SirCakeX|开小号偷东西搞破坏，大号转移物资试图洗白|<font color=red>永久封禁</font>|
 |_Hzxlzz|大量购买火药制作TNT炸别人家还试图隐瞒|<font color=red>永久封禁</font>|
 |Gaveme|偷老玩家的纪念物品，恶意点火破坏建筑|<font color=red>永久封禁</font>|
-|ian3451|发表不当政治言论，威胁服务器正常运营|<font color=red>永久封禁</font>|
+|ian3451|发表不当涉政言论，威胁服务器正常运营|<font color=red>永久封禁</font>|

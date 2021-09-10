@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <title>DripDrop⬝Wiki - DripDrop Minecraft服务器的维基百科</title>
@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-  <meta http-equiv="cache-control" content="no-cache" />
+  <link rel="stylesheet" href="https://unpkg.com/docsify-vuepress-theme/dist/style.min.css" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="expires" content="0" />
   <style type="text/css">
@@ -37,6 +37,9 @@
       onlyCover: true,
       search: 'auto',
       name: 'DripDrop Wiki',
+      'flexible-alerts': {
+        style: 'flat'
+      },
       search: {
         maxAge: 600000, // 过期时间，单位毫秒，默认一天，目前设为10分钟
         paths: 'auto', // or 'auto'
@@ -45,14 +48,23 @@
         // 搜索标题的最大层级, 1 - 6
         depth: 6,
         hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
-
         // 避免搜索索引冲突
         // 同一域下的多个网站之间
         namespace: 'website-1'
+      },
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true,
       }
     }
   </script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-vuepress-theme/dist/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>

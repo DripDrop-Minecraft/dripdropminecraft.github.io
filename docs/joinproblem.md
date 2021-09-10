@@ -98,10 +98,11 @@
 
 ## 服务器支持基岩版玩家登入吗？
 
-目前本服务器仅支持 *Java* 版玩家登入。虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（尤其是一些数据结构）。所以就目前来看，除非基岩版和Java版能够做到“仅仅是用不同的编程语言开发了同一个游戏”，否则互通插件使用起来有很多限制，它带来的收益可能还没有运营单一版本服务器的多，而且还需要两种版本的玩家相互妥协，不能比较完整地体验各自版本的乐趣。
+目前本服务器仅支持 *Java* 版玩家登入。虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（尤其是一些数据结构）。所以就目前来看，<font color=red>除非基岩版和Java版能够做到“唯一的差异就是开发语言”</font>，否则互通插件使用起来有很多限制，它带来的收益不见得会多于运营单一版本服务器。由于存在这些目前还不能解决的差异问题，两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受各自版本带来的全部体验。
 
-官方在GitHub项目上的部分Wiki原文如下：
-
+> [!note]
+> Geyser插件的开发者在其[GitHub项目上的部分Wiki原文](https://github.com/GeyserMC/Geyser/wiki/Current-Limitations)如下：
+>
 >With Geyser being a <font color=red>protocol translator</font> between two different games with two different codebases, 
 >there are a handful of limitations that Geyser is unfortunately unable to handle. 
 >Despite Minecraft Bedrock and Java being quite close in comparison, there are some vast differences in many areas.
@@ -111,5 +112,5 @@
 
 ## 我忘记了账号登录密码怎么办？
 
-如果是正版玩家，请使用官方提供的正式渠道找回账号密码，非正版玩家则联系服主处理。
+**<font color=red>正版玩家请务必使用官方提供的正式渠道</font>** 找回账号密码，非正版玩家则联系服主处理。
 
