@@ -3,7 +3,7 @@
 
 ## 宠物图鉴
 
-输入指令 `/pet` ，点击 <img src="pics/book.png" class="icon" alt="书本图标"/> `书本` 即可打开**宠物图鉴**。
+输入指令 `/pet` ，点击 <img src="pics/book.png" class="icon" alt="书本图标"/> `宠物大全` 即可打开**宠物图鉴**。
 
 ![宠物图鉴](pics/petbook.png)
 

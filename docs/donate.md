@@ -47,11 +47,11 @@
 > [!note]
 > 目前只支持**支付宝**扫码付款，开通其他付费渠道一个就要200块实在太贵了。
 
-输入指令 `/love` 点击 <img src="pics/diamond_icon.png" class="icon" alt="钻石图标"/> `钻石` 。
+输入指令 `/pet`， 点击下图所示的氪金入口。
 
 ![爱心贴纸菜单](pics/love2.png)
 
-进入氪金的商店。
+进入氪金界面。
 
 ![Mcpay菜单](pics/love3.png)
 
