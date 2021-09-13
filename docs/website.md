@@ -2,6 +2,10 @@
 
 [DripDrop卫星地图](http://txyminecraft.club:8123/) 可以很方便地查看整个生存区的地图。
 
+## Minecraft Wiki
+
+[Minecraft中文维基百科](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)是了解Minecraft这款游戏的重要资料来源。
+
 ## MCBBS
 
 [MCBBS](https://www.mcbbs.net/) 是我认为目前最具有影响力的Minecraft中文论坛。

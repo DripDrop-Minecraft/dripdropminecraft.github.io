@@ -75,13 +75,13 @@
 
 + **如果未进入服务器前就崩溃**
 
-    请根据崩溃日志通过搜索引擎自行排查，或在群内寻找帮助。
+    通常引起这种崩溃的原因有Java环境异常、mod缺失或冲突等，请根据崩溃日志通过搜索引擎自行排查，或在群内寻找帮助。
 
 ## 我进不了游戏怎么办？
 
 如果不是客户端崩溃导致玩家无法进入游戏，常见的问题有以下几种：
 
-* 第一种是提示“Out Of Memory”（内存溢出），这种情况通常是玩家没有给游戏分配足够的内存（1 GB 或 1024 MB以上），详见[配置启动器](./greenhand?id=配置启动器)的“内存检查”部分。
+* 第一种是提示“Out Of Memory”（内存溢出），这种情况通常是玩家没有给游戏分配足够的内存（在<font color=red>64</font>位电脑，你为启动器分配的最大内存应该达到<font color=red>2 GB</font> 或 <font color=red>2048 MB</font>）。
 
 * 第二种是提示“connection”有异常，这种情况通常是网络连接有问题，建议玩家先排查自己的网络是否异常。
 
@@ -93,25 +93,30 @@
 
 * 第六种是提示“Unknown Host”（未知主机），建议玩家检查输入的服务器地址是否正确，有没有使用不该使用的**全角字符**（比如中文冒号`：`，类似`ＡＢＣ１２３`这类间距特别大的字母和数字）输入。
 
-* 第七种是提示“无效会话”，建议玩家重启游戏尝试再次登录。
+* 第七种是提示“无效会话”，这种情况游戏本身会提示建议玩家重启游戏尝试再次登录。
 
 其他情形建议玩家截图或上传错误信息到群里，管理员和其他可能遇到并解决过类似问题的小伙伴将尝试在线解决。
 
 ## 服务器支持基岩版玩家登入吗？
 
-目前本服务器仅支持 *Java* 版玩家登入。虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（尤其是一些数据结构）。所以就目前来看，<font color=red>除非基岩版和Java版能够做到“唯一的差异就是开发语言”</font>，否则互通插件使用起来有很多限制，它带来的收益不见得会多于运营单一版本服务器。由于存在这些目前还不能解决的差异问题，两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受各自版本带来的全部体验。
+目前本服务器仅支持 *Java* 版玩家登入。虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（**尤其是一些数据结构**）。所以就目前来看，除非基岩版和Java版能够做到<font color=red>“唯一的差异就是开发语言”</font>，否则互通插件使用起来有很多限制。强行互通带来的收益不见得会多于运营单一类型的服务器。由于存在这些目前还不能解决的差异问题，两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受到各自版本带来的全部体验。
 
 > [!note]
 > Geyser插件的开发者在其[GitHub项目上的部分Wiki原文](https://github.com/GeyserMC/Geyser/wiki/Current-Limitations)如下：
 >
->With Geyser being a <font color=red>protocol translator</font> between two different games with two different codebases, 
+>"With Geyser being a <font color=red>protocol translator</font> between two different games with two different codebases, 
 >there are a handful of limitations that Geyser is unfortunately unable to handle. 
->Despite Minecraft Bedrock and Java being quite close in comparison, there are some vast differences in many areas.
+>Despite Minecraft Bedrock and Java being quite close in comparison, there are some vast differences in many areas."
 >
->Geyser作为一个基于两种不同代码所开发的两种不同游戏（注：互通插件的开发者认为基岩版和Java版之间的差异已经大到足以认定为两种游戏）之间的协议转换器，还有一大堆限制没法解决。尽管基岩版和Java版相比有很多相近之处，但是在别的地方也同样存在着巨大的差异。
+>翻译：“Geyser作为一个基于两种不同代码所开发的**两种不同游戏**之间的<font color=red>协议转换器</font>，还有一大堆限制没法解决。尽管基岩版和Java版相比有很多相近之处，但是在别的地方也同样存在着巨大的差异。”
+>
+> 注：互通插件的开发者认为基岩版和Java版之间的差异已经大到足以认定为两种游戏。
 
 
 ## 我忘记了账号登录密码怎么办？
+
+>[!attention]
+>切勿轻信和使用任何由未知第三方提供的账号密码找回服务！
 
 **<font color=red>正版玩家请务必使用官方提供的正式渠道</font>** 找回账号密码，非正版玩家则联系服主处理。
 
