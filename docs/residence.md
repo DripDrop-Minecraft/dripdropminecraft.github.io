@@ -22,9 +22,9 @@
 
 1. 合成一个 <img src="pics/wooden_hoe.png" class="icon" alt="木锄头图标"/> `木锄头` ，在你想要圈起来的空间，比如图片中的小房子：
 
-    用木锄头**左键点击**第一个点 **<font color=red>(红色羊毛)</font>**；
+    用木锄头 **左键** 点击第一个点<font color=red>（下图红色羊毛）</font>；
 
-    用木锄头**右键点击**第二个点 **<font color=blue>(蓝色羊毛)</font>**。
+    用木锄头 **右键** 点击第二个点<font color=blue>（下图蓝色羊毛）</font>。
 
 ![选择领地的两个点](pics/resselect.png)
 
