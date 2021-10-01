@@ -23,12 +23,12 @@
 
 >挂人一时爽，一直挂人一直爽。
 
-|玩家名|事由|处理措施|
-|:----:|:----------:|:-----:|
-|nmsl|恶意拆毁其他玩家没有圈领地的家，还创小号进来骂人|<font color=red>永久封禁</font>|
-|whx233|不仅拆别人家，还把别人的箱子锁了|<font color=red>永久封禁</font>|
-|FuFusuperBa|明目张胆在服主面前开启飞天外挂|<font color=red>永久封禁</font>|
-|SirCakeX|开小号偷东西搞破坏，大号转移物资试图洗白|<font color=red>永久封禁</font>|
-|_Hzxlzz|大量购买火药制作TNT炸别人家还试图隐瞒|<font color=red>永久封禁</font>|
-|Gaveme|偷老玩家的纪念物品，恶意点火破坏建筑|<font color=red>永久封禁</font>|
-|ian3451|发表不当涉政言论，威胁服务器正常运营|<font color=red>永久封禁</font>|
+|   玩家名    |                       事由                       |            处理措施             |
+| :---------: | :----------------------------------------------: | :-----------------------------: |
+|    nmsl     | 恶意拆毁其他玩家没有圈领地的家，还创小号进来骂人 | <font color=red>永久封禁</font> |
+|   whx233    |         不仅拆别人家，还把别人的箱子锁了         | <font color=red>永久封禁</font> |
+| FuFusuperBa |          明目张胆在服主面前开启飞天外挂          | <font color=red>永久封禁</font> |
+|  SirCakeX   |     开小号偷东西搞破坏，大号转移物资试图洗白     | <font color=red>永久封禁</font> |
+|   _Hzxlzz   |      大量购买火药制作TNT炸别人家还试图隐瞒       | <font color=red>永久封禁</font> |
+|   Gaveme    |       偷老玩家的纪念物品，恶意点火破坏建筑       | <font color=red>永久封禁</font> |
+|   ian3451   |  通过发表不当涉政言论的方式，妨碍服务器正常运营  | <font color=red>永久封禁</font> |
