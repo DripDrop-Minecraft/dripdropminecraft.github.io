@@ -9,7 +9,7 @@
 
 > [!tip]
 > 使用**官方启动器**的玩家不需要额外下载Java，因为自1.17开始，官方启动器就已经内置了Java 16。
-> 我们不生产JDK或JRE，我们只是[Oracle官网](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
+> 另外，我们不生产JDK或JRE，我们只是[Oracle官网下载文件](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
 
 > [!warning] 
 > 强烈不建议**通过百度**自行搜索、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
@@ -37,7 +37,7 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 + **~~Linux平台玩家~~**
 
-~~Linux用户不会装OpenJDK？wget指令也不会用？那你只是纯粹拿Linux装逼的吗？~~
+~~Linux用户不会装JDK？wget指令也不会用？那你只是纯粹拿Linux装逼的吗？~~
 
 > [!tip]
 > 一般来说，系统在安装Java时会自动配置好 *Java* 环境。如果玩家在安装好Java并准备进行游戏时却提示找不到Java，请参考[这里](./reference/javaconfig.md)。
@@ -57,7 +57,7 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 + **第三方启动器**
 
->我们认为游玩正版游戏是值得骄傲的，但也不会强迫任何人必须购买正版Minecraft。如果你能够在这个游戏中享受到许多乐趣，那么可以考虑在适当的时机补个票。
+>我们认为游玩正版游戏是值得鼓励的，但也不会强迫任何人必须购买正版Minecraft。如果你并非正版玩家，但同时能够在这个游戏中享受到许多乐趣，那么可以考虑在适当的时机补个票。
 
 对于非正版玩家，或是不习惯使用正版启动器的玩家，可以考虑使用第三方开发者提供的第三方启动器。
 

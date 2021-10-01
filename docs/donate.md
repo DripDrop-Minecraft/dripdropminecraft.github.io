@@ -71,34 +71,23 @@
 
 2. 凭支付宝的支付凭证找 `neverlag QQ(3067483781)` 解决。
 
-## 无偿捐赠以及一些感谢的话
+## 一些感谢的话
 
 所有无偿捐赠的玩家，我真的很感谢你们对服务器的喜欢，或许还有觉得我人好才愿意支持我的。
 
-不过你们似乎一个个都不玩了啊？
+有时候会在想是不是服务器变味了，是不是我做错了什么事，所以有的玩家再也不上线了。
 
-有的时候真的会在想是不是服务器变味了，是不是我做错了什么事，
+只能说隔着网络还是太遥远了，心意也没法很好地传达，感谢陪伴和帮助！
 
-所以有的玩家再也不上线了。
-
-只能说离着网络还是太遥远了，心意也没法很好的传达，感谢陪伴！
-
-感谢名单:
-
-+ **shinning__sun** 
-
-+ **Jian_Shang**
-
-+ **Yumekui_**
-
-+ **momo0_0**
-
-+ **taohuahua**
-
-+ **kaiqi233**
-
-+ **Benzi520**
-
-+ **John_wzy**
-
-+ **BClong**
+>[!note]
+>感谢以下为本服提供过无偿捐赠或内容支持的玩家（排序不分先后）：
+>
+> **shinning__sun**、**Jian_Shang**、**Yumekui_** 、**momo0_0**、**taohuahua**、**Reverse_Burn_Joy**、**kaiqi233**、**Benzi520**
+> 
+> **John_wzy**、**Thinglass**、**BClong**、**BaiMuDa**、**Ailuen**、**maple_j1**、**vx0828**、**trueYunfan**、 **Qiamai**、**DangoBurn**
+>
+> **ChocolateNeco**、**old_cat**、**maoshubei**、**chen_p**、**HuaQQQQ**、**Tear_stain**、**Woonton**、**WumengOVO**、**AliceIMODO**
+> 
+> **NULL_2020**、**Jiuwang**、**yahaha**、**Agus**、**XDIatox**、**Kiyohime___**、**QinCaii**、**RuoLing**、**RuoYiJiang**、**Ruol_X**、**LuoTe**
+> 
+> 如有遗漏，实属无心，还望谅解。再次感谢所有陪伴本服一同成长的朋友们！

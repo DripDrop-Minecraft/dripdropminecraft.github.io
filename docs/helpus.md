@@ -50,12 +50,18 @@
 
 > Markdown语言
 
-你需要稍微了解markdown语言，以方便编写Wiki。
+你需要稍微了解[Markdown](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)语法，以方便编写Wiki。
 
 > 对服务器很了解
 
-帮助我们修正Wiki中存在的错误，或是补充更多内容。
+帮助我们修正Wiki中存在的错误或过期内容，或是补充更多内容。
 
 ## 提供技术支持
 
-如果能提供网络安全（尤其是防御DDoS攻击）方面的支持，我们将感激不尽。当然，你至少需要掌握<font color=red>计算机网络</font>、<font color=red>数据结构</font>、<font color=red>算法</font>以及<font color=red>一门编程语言（和对应的编程软件）</font>。如果有兴趣了解这些内容，可以在群里@`Dell_G3`进行深♂入交流。
+> 服务器插件开发
+
+Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://www.kotlincn.net/docs/reference/basic-syntax.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。
+
+> 网络安全支持
+
+网络安全是提供服务的重要组成部分，如果你能提供网络安全（尤其是防御DDoS攻击）方面的支持，我们将感激不尽。当然，你至少需要掌握<font color=red>计算机网络</font>、<font color=red>数据结构与算法</font>以及<font color=red>一门编程语言（和对应的编程软件）</font>。更多技术资料，可以查看这个链接：https://github.com/yyl424525/CS-Books-PDF
