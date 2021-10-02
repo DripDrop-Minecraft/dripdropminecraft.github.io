@@ -82,7 +82,7 @@
 >[!note]
 >感谢以下为本服提供过无偿捐赠或内容支持的玩家（排序不分先后）：
 >
-> **shinning__sun**、**Jian_Shang**、**Yumekui_** 、**momo0_0**、**taohuahua**、**Reverse_Burn_Joy**、**kaiqi233**、**Benzi520**
+> **shinning__sun**、**Jian_Shang**、**Yumekui_** 、**momo0_0**、**taohuahua**、**Reverse_Burn_Joy**、**kaiqi233**、**Benzi520**、**Ibaraki_**
 > 
 > **John_wzy**、**Thinglass**、**BClong**、**BaiMuDa**、**Ailuen**、**maple_j1**、**vx0828**、**trueYunfan**、 **Qiamai**、**DangoBurn**
 >
