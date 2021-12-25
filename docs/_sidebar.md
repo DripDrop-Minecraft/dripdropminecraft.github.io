@@ -3,9 +3,7 @@
     * [DripDrop](about.md)
 * 初遇
     * [游戏安装](installgame.md)
-    * [入服指南](firstjoin.md)
-    * [入服问题](joinproblem.md)
-    * [规则约定](rules.md)
+    * [入服指南](joinproblem.md)
 * 初知
     * [基础指令](command.md)
     * [常问问题](question.md)
