@@ -15,7 +15,7 @@
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
 * 喜爱
-    * [氪金赞助](donate.md)
+    * [友情赞助](donate.md)
     * [帮助我们](helpus.md)
 * 秘密
     * [小小技巧](tips.md)
