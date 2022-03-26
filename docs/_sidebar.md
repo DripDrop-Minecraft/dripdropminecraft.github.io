@@ -11,17 +11,11 @@
     * [领地插件](residence.md)
     * [拓展物品](itemsadder.md)
     * [全服点歌](allmusic.md)
-    * [顶帖奖励](bbstopper.md)
     * [宠物插件](companions.md)
     * [特效插件](procosmetics.md)
-    * [箱子商店](quickshop.md)
-    * [称号插件](tags.md)
     * [破坏查询](coreprotect.md)
-    * [载具插件](vehicles.md)
-    * [时空小报](news.md)
 * 喜爱
     * [氪金赞助](donate.md)
     * [帮助我们](helpus.md)
 * 秘密
-    * [一些趣闻](eggs.md)
     * [小小技巧](tips.md)
