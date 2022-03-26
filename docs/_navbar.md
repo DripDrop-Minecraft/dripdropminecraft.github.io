@@ -5,7 +5,7 @@
   * [**JetBrains 公司</font>**](https://www.jetbrains.com/)
 * **<font color=canyon>友情链接</font>**
   * [<font color=rede>Minecraft官网</font>](https://www.minecraft.net/zh-hans)
-  * [<font color=orange>DripDrop卫星地图</font>](http://map.dripdropminecraft.pub/)
+  * [<font color=orange>DripDrop卫星地图</font>](http://map3.dripdropminecraft.pub/#)
   * [<font color=blue>Minecraft中文维基</font>](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
   * [**论坛**：MCBBS](https://www.mcbbs.net/)
   * [**插件**：SpigotMC](https://www.spigotmc.org/) 
