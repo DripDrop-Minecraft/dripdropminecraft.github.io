@@ -5,7 +5,6 @@
   * [**JetBrains 公司</font>**](https://www.jetbrains.com/)
 * **<font color=canyon>友情链接</font>**
   * [<font color=rede>Minecraft官网</font>](https://www.minecraft.net/zh-hans)
-  * [<font color=orange>DripDrop游戏地图</font>](http://map3.dripdropminecraft.pub/#)
   * [<font color=blue>Minecraft中文维基</font>](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
   * [<font color=	#6495ED>腐竹的BiliBili空间</font>](https://space.bilibili.com/17971507)
   * [**第三方启动器**：HMCL](http://ci.huangyuhui.net/job/HMCL/)
