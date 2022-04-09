@@ -1,6 +1,6 @@
 # 首页
 
-> 欢迎来到 **DripDrop·我的世界·服务器**的 **Wiki**页面 
+> 欢迎来到 **DripDrop·Minecraft·服务器**的 **Wiki**页面 
 
 DripDrop Wiki 并不能解决所有关于 Minecraft 的问题，它更多的是介绍**DripDrop服务器**中的**指令**、**插件**、**技巧**，以及一些**常见问题**。
 

@@ -1,5 +1,5 @@
 
-# DripDrop · 我的世界 · 服务器
+# DripDrop · Minecraft · 服务器
 
 # **维基百科**
 
@@ -7,11 +7,11 @@
 
 <br/>
 
-<h3><font color=red>当前服务器版本：1.18.2【purpur核心】</font></h3>
+<h3><font color=red>当前服务器版本：1.18.2</font></h3>
 
 <br/>
 
-**<font color=#191970>最近编辑：2022-03-26</font>**
+**<font color=#191970>最近编辑：2022-04-09</font>**
 
 
 

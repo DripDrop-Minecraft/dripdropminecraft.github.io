@@ -11,7 +11,11 @@
     * [领地插件](residence.md)
     * [拓展物品](itemsadder.md)
     * [全服点歌](allmusic.md)
+    * [系统商店](systemshop.md)
+    * [全球市场](globalmarket.md)
+    * [箱子商店](quickshop.md)
     * [宠物插件](companions.md)
+    * [玩家称号](tags.md)
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
 * 喜爱
