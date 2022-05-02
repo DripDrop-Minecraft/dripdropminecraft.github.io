@@ -21,7 +21,7 @@
 只能说隔着网络还是太遥远了，心意也没法很好地传达，感谢陪伴和帮助！
 
 >[!note]
->感谢以下为本服提供过无偿捐赠或内容支持的玩家（排序不分先后）：
+>感谢以下为本服提供过**无偿捐赠**或**内容支持**的玩家（排序不分先后）：
 >
 > **shinning__sun**、**Jian_Shang**、**Yumekui_** 、**momo0_0**、**taohuahua**、**Reverse_Burn_Joy**、**kaiqi233**、**Benzi520**、**Ibaraki_**
 > 
@@ -32,5 +32,7 @@
 > **NULL_2020**、**Jiuwang**、**yahaha**、**Agus**、**XDIatox**、**Kiyohime___**、**QinCaii**、**RuoLing**、**RuoYiJiang**、**Ruol_X**、**LuoTe**
 >
 > **Charles_Keeling**、**Basalmos**、**xiaoheimod**、**Conggauze**、**RsDrr**、**XIAO_BING**、**LuSir_**、**Togcat**、**yue_bao_**、**SCP706**、**Your_Promise**
-> 
+>
+> **ClosetoGod**、**Miaozhu**、**Cola_Dream**、**AJ3125888**、**x_bodd**、**HuTao_**、**Agou0620**、**MoYou__**、**qinxiaosama**、**YuZan2526**、**Rinnse**
+>
 > 如有遗漏，实属无心，还望谅解。再次感谢所有陪伴本服一同成长的朋友们！
