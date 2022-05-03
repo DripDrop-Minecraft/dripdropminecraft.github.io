@@ -26,7 +26,7 @@
 
 > Itemsadder插件
 
-你需要掌握材质包的结构，CustomModelData值，绘制像素图片，利用Blockbench建模。
+你需要掌握材质包的结构，CustomModelData值，绘制像素图片，利用[Blockbench](https://www.blockbench.net/downloads)建模。
 
 这是[Itemsadder的Wiki](https://itemsadder.plugin.ga/plugin-usage)，你可以根据服务器里的拓展物品与对应的材质包进行学习。
 
@@ -35,8 +35,6 @@
 实际上，你要是很擅长 **画画** 或者 **建模** 的话，你就完全有能力制作拓展物品了。
 
 服务器内拓展物品一般都是采用**16×16像素**的png图片。
-
-制作模型使用**[Blockbench](https://www.blockbench.net/downloads)**。
 
 你可以在QQ群 `286338133` 里上传你绘制的**物品.png**或者**模型.json**。
 
@@ -72,7 +70,12 @@
 
 > 服务器插件开发
 
-Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://www.kotlincn.net/docs/reference/basic-syntax.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。
+Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://www.kotlincn.net/docs/reference/basic-syntax.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。如果需要了解插件开发，请移步[这里](https://plgdev.xuogroup.top/#/README)。
+
+目前本服有以下服务端插件项目，均基于其他开发者开源的项目代码进行**二次开发和自主维护**，并严格遵守[GPLv3.0](https://www.gnu.org/licenses/quick-guide-gplv3.html)许可证：
+
++ [AllMusic_DripDrop](https://github.com/Git-a-Live/AllMusic_DripDrop)
++ [CustomWardrobe](https://github.com/Git-a-Live/CustomWardrobe)
 
 > 网络安全支持
 
