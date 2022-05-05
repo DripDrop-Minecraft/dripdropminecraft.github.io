@@ -1,6 +1,7 @@
 * [首页](README.md)
 * 听闻
-    * [DripDrop](about.md)
+    * [Hello, DripDrop!](about.md)
+    * [小服里有好风光](promote.md)
 * 初遇
     * [游戏安装](installgame.md)
     * [入服指南](joinproblem.md)
