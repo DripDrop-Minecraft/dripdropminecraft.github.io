@@ -12,6 +12,10 @@
 
 随着1.18版本上线，以及过去近两年运营经验的逐渐积累，再考虑到商业服回报寥寥，转回公益服或许是更好的选择，于是又改成公益服，并更新了宣传帖。
 
+不过公益服也并没有想象中那么容易运营，MCBBS对公益服的审查要求日益严苛，以往一些正常的赞助行为，现在随时都可能被视作商业交易从而受到严厉打击。
+
+未来是继续走公益服的路线，还是又转回商业服，一切都将视实际情况决定……
+
 ## 一些感谢的话
 
 所有无偿捐赠的玩家，我真的很感谢你们对服务器的喜欢，或许还有觉得我人好才愿意支持我的。
@@ -31,10 +35,10 @@
 > 
 > **NULL_2020**、**Jiuwang**、**yahaha**、**Agus**、**XDIatox**、**Kiyohime___**、**QinCaii**、**RuoLing**、**RuoYiJiang**、**Ruol_X**、**LuoTe**
 >
-> **Charles_Keeling**、**Basalmos**、**xiaoheimod**、**Conggauze**、**RsDrr**、**XIAO_BING**、**LuSir_**、**Togcat**、**yue_bao_**、**SCP706**、**Your_Promise**
+> **Charles_Keeling**、**Basalmos**、**xiaoheimod**、**Conggauze**、**RsDrr**、**XIAO_BING**、**LuSir_**、**Togcat**、**yue_bao_**、**SCP706**、**Cola_Dream**
 >
-> **ClosetoGod**、**Miaozhu**、**Cola_Dream**、**AJ3125888**、**x_bodd**、**HuTao_**、**Agou0620**、**MoYou__**、**qinxiaosama**、**YuZan2526**、**Rinnse**
+> **ClosetoGod**、**Miaozhu**、**AJ3125888**、**x_bodd**、**HuTao_**、**Agou0620**、**MoYou__**、**qinxiaosama**、**YuZan2526**、**Rinnse**、**KuiMomo**
 >
 > **Wmdkg2020**、**imYades**、**FoolishXiaoxuan**、**Breathe666**、**_IMbrrin**、**Pem_Pen**、**Ka_Ka_z**、**Yout0pia**、**xiaobai_tu**、**Single__290**
 >
-> 如有遗漏，实属无心，还望谅解。再次感谢所有陪伴本服一同成长的朋友们！
+> 如有遗漏，实属无心，还望多多谅解包涵。再次感谢所有陪伴本服一同成长的朋友们！
