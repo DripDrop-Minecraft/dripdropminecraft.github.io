@@ -9,4 +9,4 @@ DripDrop Wiki 并不能解决所有关于 Minecraft 的问题，它更多的是�
 
 > 在线实时地图——看看小伙伴们在哪里玩耍！
 
-<iframe src="http://map.dripdropminecraft.pub/" width="600" height="600" frameborder="0" style="border:0" allowfullscreen="false"></iframe>
+<iframe src="http://map.dripdropminecraft.pub/?worldname=world&mapname=" width="600" height="600" frameborder="0" style="border:0" allowfullscreen="false"></iframe>
