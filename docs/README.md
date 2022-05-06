@@ -6,7 +6,3 @@ DripDrop Wiki 并不能解决所有关于 Minecraft 的问题，它更多的是�
 你可以在本站点利用**侧边栏最上方的搜索框**试着搜索你的问题。
 
 如果 Wiki 仍然不能解决你的问题，可以加入QQ群`286338133`尝试寻求**老大哥的帮助**。
-
-> 在线实时地图——看看小伙伴们在哪里玩耍！
-
-<iframe src="http://map.dripdropminecraft.pub/?worldname=world&mapname=" width="600" height="600" frameborder="0" style="border:0" allowfullscreen="false"></iframe>
