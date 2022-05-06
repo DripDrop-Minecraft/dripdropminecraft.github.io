@@ -4,6 +4,10 @@ DripDrop成立于疫情之初，原名无限时空，现已连续运营2年。
 
 DripDrop主打**养老、建筑、聊天以及摸鱼**等生存玩法，同时提供小部分如副本、RPG武器等轻RPG内容，不会对红石机器、原版特性等进行限制。
 
+> BiliBili宣传视频
+
+<iframe src="//player.bilibili.com/player.html?aid=887375756&bvid=BV1WK4y1N7BD&cid=319120333&page=1" scrolling="no" border="1" frameborder="yes" framespacing="0" allowfullscreen="false" width=360 height=640> </iframe>
+
 ## 玩家们才是服务器的灵魂
 
 > 服务器存在的意义，就是让大家一起玩！
