@@ -1,4 +1,3 @@
-
 # DripDrop · Minecraft · 服务器
 
 # **维基百科**
