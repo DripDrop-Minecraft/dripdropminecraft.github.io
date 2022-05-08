@@ -17,7 +17,9 @@
   <meta http-equiv="expires" content="0" />
   <style type="text/css">
     img {
+      border: 3px solid green;
       width: 70%;
+      border-radius: 15px;
     }
 
     .icon {
@@ -50,7 +52,7 @@
         style: 'flat'
       },
       search: {
-        maxAge: 600000, // 过期时间，单位毫秒，默认一天，目前设为10分钟
+        maxAge: 300000, // 过期时间，单位毫秒，默认一天，目前设为5分钟
         paths: 'auto', // or 'auto'
         placeholder: '搜索',
         noData: '未找到合适的结果',
@@ -62,8 +64,8 @@
         namespace: 'website-1'
       },
       pagination: {
-        previousText: '上一篇',
-        nextText: '下一篇',
+        previousText: '上一节',
+        nextText: '下一节',
         crossChapter: true,
         crossChapterText: true,
       }

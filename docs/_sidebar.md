@@ -1,14 +1,11 @@
-* [首页](README.md)
-* 听闻
+* 相遇
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
-* 初遇
-    * [游戏安装](installgame.md)
-    * [入服指南](joinproblem.md)
-* 初知
-    * [基础指令](command.md)
-    * [常问问题](question.md)
 * 相识
+    * [游戏安装](installgame.md)
+    * [基础指令](command.md)
+    * [入服指南](joinproblem.md)
+* 相知
     * [领地插件](residence.md)
     * [拓展物品](itemsadder.md)
     * [全服点歌](allmusic.md)
@@ -20,7 +17,7 @@
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
 * 喜爱
-    * [友情赞助](donate.md)
+    * [赞助支持](donate.md)
     * [帮助我们](helpus.md)
 * 秘密
     * [小小技巧](tips.md)

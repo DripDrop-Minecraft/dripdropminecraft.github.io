@@ -11,17 +11,16 @@
 
 <br/>
 
-**<font color=#191970>最近编辑：2022-05-05</font>**
+**<font color=#191970>最近编辑：2022-05-08</font>**
 
 <br/>
 
-**支持版本：1.15.X - 1.18.X | 网络类型：双线/多线 | 服务器人数上限：30 ~ 50**
+**支持版本：1.15.X - 1.18.X&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;网络类型：双线/多线&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;服务器人数上限：30 ~ 50**
 
-**正版验证：启用 | 主要插件：一键砍树、农田防踩踏、一键整理、全服点歌、宠物**
+**正版验证：启用&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;主要插件：一键砍树、农田防踩踏、一键整理、全服点歌、宠物、季节**
 
 <br/>
 
 [开启](README)
 
 ![](pics/cover.png)
-
