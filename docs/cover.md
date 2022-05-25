@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3><font color=red>当前服务器版本：1.18.2&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;最近编辑时间：2022-05-08</font></h3>
+<h3><font color=red>当前服务器版本：1.18.2&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;最近编辑时间：2022-05-25</font></h3>
 
 <br/>
 
