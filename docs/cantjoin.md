@@ -14,9 +14,9 @@
 #### 解决方案
 **A 检查IP是否正确，尝试用以下两个IP连接**
 
-域名IP为 `dripdrop.games`
+主域名IP为 `dripdrop.games`，备用域名IP为`games.dripdrop.games`
 
-无域名解析IP为 `129k-01.mcstory.cc:26850`
+直连IP为 `129k-01.mcstory.cc:26850`
 
 **B 尝试重启客户端**
 
@@ -33,7 +33,7 @@
 
 可以在键盘上同时按`WINDOWS`+ `R`，打开“运行”对话窗，输入`cmd`命令，点击“确认”按钮
 
-在打开的命令行窗口中，输入`ipconfig/flushdns`命令，键盘上按 `Enter`回车键即可刷新
+在打开的命令行窗口中，输入`ipconfig /flushdns`命令，键盘上按 `Enter`回车键即可刷新
 
 
 ### ② 登录失败 : 无效会话(请尝试重启游戏及启动器) 
