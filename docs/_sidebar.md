@@ -1,3 +1,7 @@
+* 常问问题
+    * [客户端下载](download.md)
+    * [无法进服](cantjoin.md)
+    * [加服后的问题](firstjoin.md)
 * 相遇
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
