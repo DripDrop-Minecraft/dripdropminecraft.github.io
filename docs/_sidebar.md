@@ -1,14 +1,13 @@
 * 常问问题
     * [客户端下载](download.md)
     * [无法进服](cantjoin.md)
-    * [加服后的问题](firstjoin.md)
+    * [入服指南](joinproblem.md)
 * 相遇
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
 * 相识
     * [游戏安装](installgame.md)
     * [基础指令](command.md)
-    * [入服指南](joinproblem.md)
 * 相知
     * [领地插件](residence.md)
     * [拓展物品](itemsadder.md)
