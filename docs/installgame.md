@@ -9,11 +9,11 @@
 
 > [!tip]
 > 使用**官方启动器**的玩家不需要额外下载Java，因为自1.17版本开始，官方启动器就已经内置了Java环境。
-> 另外，我们不生产JDK或JRE，我们只是[Oracle官网下载文件](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
-> 如果有需要，也可以考虑使用无论是商业还是个人使用都完全免费的OpenJDK，这里推荐[Zulu JDK](https://www.azul.com/downloads/?package=jdk#download-openjdk)、[Microsoft OpenJDK](https://docs.microsoft.com/zh-cn/java/openjdk/download)以及[Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download)。
+> 另外，我们不生产JDK或JRE，我们只是[Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)的搬运工。
+> 如果有需要，也可以考虑安装无论是商业还是个人使用都**完全免费**的OpenJDK，这里推荐使用[Zulu JDK](https://www.azul.com/downloads/?package=jdk#download-openjdk)和[Microsoft OpenJDK](https://docs.microsoft.com/zh-cn/java/openjdk/download)。
 
 > [!warning] 
-> 强烈不建议**通过百度**自行搜索、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。此外，<font color=red>非专业开发人员的玩家，应当使用当前游戏版本所支持的Java版本</font>，既不要使用过于老旧的版本，也不需要使用太新的版本（可能官方都还没开始适配），否则可能会带来意想不到的问题。
+> 强烈不建议**通过百度**自行搜索、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。此外，<font color=red>非专业开发人员的玩家，应当使用当前游戏版本所支持的Java版本</font>，既不要使用过于老旧的版本（比如1.18.X的游戏环境却还用Java 8），也不需要使用太新的版本——比如Java 18甚至Java 19——官方都没适配过，游戏客户端根本识别不出这种版本的Java环境，只能报错。
 
 
 ## 安装Java
