@@ -83,6 +83,6 @@
 >
 > **Wmdkg2020**、**imYades**、**FoolishXiaoxuan**、**Breathe666**、**_IMbrrin**、**Pem_Pen**、**Ka_Ka_z**、**Yout0pia**、**xiaobai_tu**、**Single__290**
 >
-> **YoGhurt__**、**hongcha_qwq**、**SparkringCreepr**、**Itwindy**、**JXSLM**、**VzVhjz**、**zhong_chun**
+> **YoGhurt__**、**hongcha_qwq**、**SparkringCreepr**、**Itwindy**、**JXSLM**、**VzVhjz**、**zhong_chun**、**2big_r**
 > 
 > 如有遗漏，实属无心，还望多多谅解包涵。再次感谢所有陪伴本服一同成长的朋友们！

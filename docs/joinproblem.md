@@ -126,18 +126,7 @@
 
 ## 服务器支持基岩版玩家登入吗？
 
-截至2022年6月，本服务器仅支持 *Java* 版玩家登入。虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（**尤其是一些数据结构**）。所以就目前来看，除非基岩版和Java版能够做到<font color=red>“唯一的差异就是开发语言”</font>，否则互通插件使用起来有很多限制。强行互通带来的收益不见得会多于运营单一类型的服务器。由于存在这些目前还不能解决的差异问题，两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受到各自版本带来的全部体验。
-
-> [!note]
-> Geyser插件的开发者在其[项目Wiki](https://wiki.geysermc.org/geyser/current-limitations/)中有如下说明：
->
->"With Geyser being a <font color=red>protocol translator</font> between two different games with two different codebases, 
->there are a handful of limitations that Geyser is unfortunately unable to handle. 
->Despite Minecraft Bedrock and Java being quite close in comparison, there are some vast differences in many areas."
->
->“Geyser作为一个基于两种不同代码所开发的**两种不同游戏**之间的<font color=red>协议转换器</font>，还有许多限制没法解决。尽管基岩版和Java版相比有很多相近之处，但是在别的地方也同样存在着一些巨大的差异。”
->
-> 从上面的描述可以看出，互通插件的开发者认为基岩版和Java版之间的差异已经大到足以认定为两种游戏，光靠通信协议转换并不能从根本上解决问题，更不可能完全满足两边玩家的需求。
+本服务器仅支持 *Java* 版玩家登入，并且短期内也不打算实现Java版与基岩版的互通。一方面，虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（**尤其是一些数据结构**）。当两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受到各自版本带来的全部体验。另一方面，一个重要的问题是，1.19版本推出聊天举报功能以后，如果Java版和基岩版进行互通，玩家的游戏安全很可能无法得到保证——基岩版目前还没有阻止消息签名的手段，我们不能随意将玩家暴露在这种不可预测的风险之下。
 
 ## 服务器的经济体系是怎样的？
 
