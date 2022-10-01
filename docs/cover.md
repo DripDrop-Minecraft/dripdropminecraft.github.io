@@ -18,4 +18,4 @@
 
 [开启](homepage.md)
 
-![](pics/cover.png)
+![](pics/midautumn.png)
