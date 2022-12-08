@@ -1,23 +1,20 @@
 <img src="pics/logo/server-icon.svg" width="100" height="100" class="logo" alt="logo"/>
 
+<br/>
+<br/>
+
 <h1><b>DripDrop · Minecraft · 服务器</b><h1>
 
 <h1><b>维基百科</b><h1>
 
-<h2><font color=#ff8c00>全新启程&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;用心打磨2年的宝藏小服</font></h2>
+<br/>
+
+<h2><b><font color=#ff8c00>质朴简单&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;温馨和谐&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;有趣好玩</b></font></h2>
+
+<h3><font color=black>服务器版本：1.19.2</font></h3>
 
 <br/>
 
-<h3><font color=red>当前服务器版本：1.19.2</font></h3>
-
-<br/>
-
-<h4><font color=green>正版验证：启用&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;支持版本：1.19.X&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;网络类型：双线/多线&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;服务器人数上限：50</font></h4>
-
-<h4><font color=purple>反聊天举报&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;反作弊&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;一键砍树&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;农田防踩踏&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;一键整理&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;全服点歌&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;个人宠物&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;季节变换</font></h4>
-
-<br/>
+<h4>©2020 - 2022 DripDrop Minecraft Server</h4>
 
 [开启](homepage.md)
-
-![](pics/midautumn.png)
