@@ -1,11 +1,11 @@
 * 常问问题
+    * [入服指南](joinproblem.md)
     * [客户端下载](download.md)
     * [无法进服](cantjoin.md)
-    * [入服指南](joinproblem.md)
-* 相遇
+* 简单介绍
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
-* 相识
+* 入服帮助
     * [游戏安装](installgame.md)
     * [基础指令](command.md)
 * 相知
