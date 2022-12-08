@@ -1,3 +1,5 @@
+<img src="pics/logo/server-icon.svg" width="100" height="100" class="logo" alt="logo"/>
+
 <h1><b>DripDrop · Minecraft · 服务器</b><h1>
 
 <h1><b>维基百科</b><h1>
@@ -6,7 +8,7 @@
 
 <br/>
 
-<h3><font color=red>当前服务器版本：1.19.2&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;最近编辑时间：2022-10-01</font></h3>
+<h3><font color=red>当前服务器版本：1.19.2</font></h3>
 
 <br/>
 
