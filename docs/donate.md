@@ -66,23 +66,25 @@
 
 只能说隔着网络还是太遥远了，心意也没法很好地传达，感谢陪伴和帮助！
 
->[!note]
->感谢以下为本服提供过**无偿捐赠**或**内容支持**的玩家（排序不分先后）：
->
-> **shinning__sun**、**Jian_Shang**、**Yumekui_** 、**momo0_0**、**taohuahua**、**Reverse_Burn_Joy**、**kaiqi233**、**Benzi520**、**Ibaraki_**
-> 
-> **John_wzy**、**Thinglass**、**BClong**、**BaiMuDa**、**Ailuen**、**maple_j1**、**vx0828**、**trueYunfan**、 **Qiamai**、**DangoBurn**、**MoonAnn**
->
-> **ChocolateNeco**、**old_cat**、**maoshubei**、**chen_p**、**HuaQQQQ**、**Tear_stain**、**Woonton**、**WumengOVO**、**AliceIMODO**
-> 
-> **NULL_2020**、**Jiuwang**、**yahaha**、**Agus**、**XDIatox**、**Kiyohime___**、**QinCaii**、**RuoLing**、**RuoYiJiang**、**Ruol_X**、**LuoTe**
->
-> **Charles_Keeling**、**Basalmos**、**xiaoheimod**、**Conggauze**、**RsDrr**、**XIAO_BING**、**LuSir_**、**Togcat**、**yue_bao_**、**SCP706**、**Cola_Dream**
->
-> **ClosetoGod**、**Miaozhu**、**AJ3125888**、**x_bodd**、**HuTao_**、**Agou0620**、**MoYou__**、**qinxiaosama**、**YuZan2526**、**Rinnse**、**KuiMomo**
->
-> **Wmdkg2020**、**imYades**、**FoolishXiaoxuan**、**Breathe666**、**_IMbrrin**、**Pem_Pen**、**Ka_Ka_z**、**Yout0pia**、**xiaobai_tu**、**Single__290**
->
-> **YoGhurt__**、**hongcha_qwq**、**SparkringCreepr**、**Itwindy**、**JXSLM**、**VzVhjz**、**zhong_chun**、**2big_r**
-> 
-> 如有遗漏，实属无心，还望多多谅解包涵。再次感谢所有陪伴本服一同成长的朋友们！
+感谢以下为本服提供过无偿捐赠或内容贡献的玩家（排序不分先后），如有遗漏，实属无心，还望多多谅解包涵。再次感谢所有陪伴本服一同成长的朋友们！
+
+|❤❤❤❤❤|❤❤❤❤❤|❤❤❤❤❤|❤❤❤❤❤|❤❤❤❤❤|
+|:--:|:--:|:--:|:--:|:--:|
+|shinning__sun|Jian_Shang|Yumekui|momo0_0|taohuahua|
+|Reverse_Burn_Joy|kaiqi233|Benzi520|Ibaraki|John_wzy|
+|Thinglass|BClong|BaiMuDa|Ailuen|maples__|
+|vx0828|trueYunfan|Qiamai|DangoBurn|MoonAnn|
+|ChocolateNeco|old_cat|maoshubei|chen_p|HuaQQQQ|
+|Tear_stain|Woonton|WumengOVO|AliceIMODO|NULL_2020|
+|Jiuwang|yahaha|Agus|XDIatox|Kiyohime___|
+|QinCaii|RuoLing|RuoYiJiang|Ruol_X|LuoTe|
+|Charles_Keeling|Basalmos|xiaoheimod|Conggauze|RsDrr|
+|XIAO__BING|LuSir_|Togcat|yue_bao_|SCP706|
+|Cola_Dream|ClosetoGod|Miaozhu|AJ3125888|x_bodd|
+|HuTao_|Agou_G9|MoYou__|qinxiaosama|Yu_Zan|
+|Rinnse|KuiMomo|Wmdkg2020|imYades|FoolishXiaoxuan|
+|Breathe666|_IMbrrin|Pem_Pen|Ka_Ka_z|Yout0pia|
+|xiaobai_tu|Single__290|YoGhurt__|hongcha_qwq|SparkringCreepr|
+|Itwindy|JXSLM|VzVhjz|zhong_chun|2big_r|
+|Yukarirua|EMCWorkstation|a9a9|junglelife|yeamforever|
+|Endfruit|sssrzg|XiaoFengZhengK|xiaoCircle|Dust_star|
